@@ -6,7 +6,6 @@
   "scripts": {
     "test": "jest"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Hone12345678/jest-another-RPG.git"
@@ -19,5 +18,8 @@
   "homepage": "https://github.com/Hone12345678/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
   }
 }
